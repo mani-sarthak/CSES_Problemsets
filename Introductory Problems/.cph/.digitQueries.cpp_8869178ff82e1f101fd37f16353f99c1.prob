@@ -1,0 +1,1 @@
+{"name":"Local: digitQueries","url":"/Users/manisarthak/Desktop/cses/Introductory Problems/digitQueries.cpp","tests":[{"id":1692002536456,"input":"3\n7\n19\n12","output":"7\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/manisarthak/Desktop/cses/Introductory Problems/digitQueries.cpp","group":"local","local":true}
